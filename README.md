@@ -12,19 +12,19 @@
             background-color: #f0f0f0;
         }
         .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
+            max-width: 800 px;
+            margin: 20 auto;
+            padding: 20;
             background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10;
+            box-shadow: 0 0 10 (0, 0, 0, 0.1);
         }
         h1 {
             color: #333;
             text-align: center;
         }
         .section {
-            margin-bottom: 20px;
+            margin-bottom: 20;
         }
         .section h2 {
             color: #555;
@@ -34,10 +34,10 @@
         }
         .credentials {
             text-align: center;
-            margin-top: 20px;
+            margin-top: 20;
         }
         .credentials p {
-            font-size: 18px;
+            font-size: 18;
             color: #444;
         }
         .credentials p span {
